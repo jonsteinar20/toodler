@@ -2,7 +2,7 @@
 
 # GIT SKIPANIR
 
-Add changes (git add .)
+Add changes (git add .) \n
 Commit changes with a comment (git commit -m "message">
 # git pull
 # git push
