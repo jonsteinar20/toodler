@@ -2,8 +2,8 @@
 
 # GIT SKIPANIR
 
-# Add changes (git add .)
-# Commit changes with a comment (git commit -m "message">
+Add changes (git add .)
+Commit changes with a comment (git commit -m "message">
 # git pull
 # git push
 # Create new branch and switch to that branch (git checkout -b <branchname>
